@@ -38,11 +38,6 @@ Through the hot spots map, users can see how different regions are doing with ne
 The definition of data feminism is quoted on page 10 as:
 
 ```
-data feminism: a way of thinking
-about data and its communication that
-is informed by direct experience, by
-a commitment to action, and by the
-ideas associated with intersectional
-feminist thought.
+data feminism: a way of thinking about data and its communication that is informed by direct experience, by a commitment to action, and by the ideas associated with intersectional feminist thought.
 ```
 Reading about the idea of data feminism has helped realized the COVID hot spots map I found very broadly _**generalizes**_ populations :earth_americas:. The data is presented by countries as a whole, and fails to account for communities and groups within those countries. For example, an [academic article](https://academic.oup.com/cid/article/72/4/703/5860249) found online outlines how minority groups are affected _disproportionately_ by the effects of COVID-19. This is not shown in the hot spot maps, and instead the map may allow people to assume COVID-19 is impacting all people in a certain country the same way. Segmenting data further would be a start in alleviating this issue. 
